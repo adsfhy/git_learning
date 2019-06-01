@@ -1,2 +1,2 @@
 # git_learning
-git_learngin
+git_learning
